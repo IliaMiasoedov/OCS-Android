@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OCS</string>
+
+    <!-- Search Page -->
+    <string name="search_page_name">Search</string>
+    <string name="search_page_hint">Search</string>
+
+    <!-- Detail Page -->
+    <string name="detail_page_name">Job Description</string>
+    <string name="detail_page_company_label">Company:</string>
+    <string name="detail_page_type_label">Type:</string>
+    <string name="detail_page_description_label">Description:</string>
+    <string name="detail_page_location_label">Location:</string>
+    <string name="detail_page_how_to_apply_label">How to apply:</string>
+</resources>
